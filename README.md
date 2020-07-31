@@ -1,7 +1,7 @@
 # Synchronous-Asynchronous-requests
 
-HOW TO USE: 
- [ENG]	
+<strong> HOW TO USE: 
+ [ENG]	</strong>
 <p> go to the public directory of your WAMP OR XAMPP server, unzip the contents of the folder
  "Synchronous_Asynchronous"
 
@@ -11,7 +11,7 @@ and run the file
 It is a basic content in order to teach the AJAX methodology and make use of synchronous and asynchronous requests
 </p>
 
-[PT-BR]	
+<strong> [PT-BR] </strong>	
 <p>
  vá até o diretório público do seu servidor WAMP OU XAMPP, descompacte ou conteudo da pasta
  "Synchronous_Asynchronous" 
@@ -23,9 +23,9 @@ e execute o arquivo
 
 </p>
 
-USED: PHP, JAVASCRIPT, BOOTSTRAP, HTML, CSS 
+<strong>USED: </strong> PHP, JAVASCRIPT, BOOTSTRAP, HTML, CSS 
 
-CREATED BY: Junior Barros (Sylvn001) 
+<strong>CREATED BY </strong>: Junior Barros (Sylvn001) 
 
 
   <h3> Follow me! </h3>
